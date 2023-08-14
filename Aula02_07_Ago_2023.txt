@@ -1,0 +1,22 @@
+Aula02_07_Ago_2023
+
+Objetivos:
+
+1. Estrutura de uma página Web;
+HTML5
+CSS3
+JAVASCRIPT
+
+2. Primeiros elementos HTML:
+   2.1. Texto;
+   2.2. Imagem;
+   2.3. Link;
+   2.4. Lista não ordenada;
+   2.5. Título e sub-título;
+   2.6. Quebra de linha.
+
+3. Primeiras formatações - estilos:
+   Folha de Estilo Externa:
+      3.1. Elemento <img>;
+      3.2. Elemento <h1>;
+      3.3. Elemento <a>.
